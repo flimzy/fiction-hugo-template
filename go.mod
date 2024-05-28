@@ -1,4 +1,4 @@
-module fiction-hugo-template.local
+module github.com/flimzy/fiction-hugo-template
 
 go 1.18
 
